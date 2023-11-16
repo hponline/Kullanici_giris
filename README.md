@@ -11,3 +11,5 @@ Bu basit projede kullanıcılar, kullanıcı adı ve şifrelerini girerek giriş
 2. **Kayıt Ol:**
    - Yeni bir kullanıcı oluşturmak için "Kayıt Ol" seçeneğini kullanın.
    - Kullanıcı adı ve şifre belirleyerek veritabanına eklenirsiniz.
+
+![image](https://github.com/hponline/Kullanici_giris/assets/143675421/d8c82c4c-08fc-42ba-9903-fc4a3a361c33)
